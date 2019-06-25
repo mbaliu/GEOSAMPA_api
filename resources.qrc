@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/plugins/croqui_fiscal">
+    <file>icon.png</file>
+    <file>resources/spurbanismo-logo-small.png</file>
+    <file>resources/spurbanismo-color-small.png</file>
+  </qresource>
+</RCC>
